@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="assets/Screenshot_2025-05-10_183608.png" alt="ScribShoe Banner" width="80%" />
+  <img src="src/assets/scribshoe_banner.png" alt="ScribShoe Banner" width="42%" border-radius="50%" />
 </p>
 
 <h1 align="center">👟 ScribShoe - 3D Shoe Customizer & Shop</h1>
