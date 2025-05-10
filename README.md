@@ -3,7 +3,7 @@
   <img src="src/assets/scribshoe_banner.png" alt="ScribShoe Banner" width="42%" border-radius="50%" />
 </p>
 
-<h1 align="center">👟 ScribShoe - 3D Shoe Customizer & Shop</h1>
+<h1 align="center">👟 ScribShoe - 3D Shoe Customisation platform </h1>
 <p align="center">
   Personalize sneakers in real-time with 3D graphics and a premium experience.
 </p>
