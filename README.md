@@ -38,7 +38,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/scribshoe_ui.png" alt="ScribShoe UI" width="90%" />
+  <img src="src/assets/scribshoe_ui.png" alt="ScribShoe UI" width="90%" />
 </p>
 
 ---
